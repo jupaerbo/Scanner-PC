@@ -1,0 +1,127 @@
+Herramienta de Análisis del PC
+
+Reporte del sistema en el siguiente formato:
+================================================================ 
+          REPORTE DE INFORMACION DEL SISTEMA            
+================================================================ 
+Fecha de generacion:
+Maquina:
+Usuario:
+================================================================ 
+ 
+--- RESUMEN EJECUTIVO ----------------------------------------- 
+Sistema Operativo:
+Procesador:
+Memoria RAM:
+Disco Principal:
+Tarjeta Grafica:
+--------------------------------------------------------------- 
+ 
+--- SISTEMA OPERATIVO ----------------------------------------- 
+ 
+Tiempo de actividad: 
+--------------------------------------------------------------- 
+
+--- PLACA BASE ------------------------------------------------ 
+Fabricante: 
+Modelo: 
+Version: 
+Numero de serie: 
+--------------------------------------------------------------- 
+--- PROCESADOR ------------------------------------------------ 
+Nombre: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+Fabricante: GenuineIntel
+Velocidad maxima: 2803 MHz
+Velocidad actual: 2803 MHz
+Nucleos fisicos: 4
+Nucleos logicos: 8
+Arquitectura: 64-bit
+--------------------------------------------------------------- 
+ 
+--- MEMORIA RAM ----------------------------------------------- 
+Memoria total instalada: 
+Memoria en uso: 
+Memoria libre: 
+
+Modulos instalados:
+ 
+--------------------------------------------------------------- 
+
+--- DISCOS Y ALMACENAMIENTO ----------------------------------- 
+** Discos fisicos ** 
+  Disco: 
+  Modelo: 
+  Tamano: 
+  Tipo: 
+  Estado: 
+  Particiones: 
+
+  Disco:
+  Modelo: 
+  Tamano: 
+  Tipo: 
+  Estado: 
+  Particiones:
+
+ 
+** Particiones logicas ** 
+  Unidad C:
+  Tamano total: 
+  Espacio usado: 
+  Espacio libre:
+  Sistema de archivos: 
+  Etiqueta: 
+
+--------------------------------------------------------------- 
+
+--- TARJETA GRAFICA -------------------------------------------
+Nombre: 
+Memoria dedicada: 
+Procesador: 
+Driver: 
+Resolucion actual:
+Tasa de refresco: 
+Estado: 
+
+--------------------------------------------------------------- 
+
+--- NUMEROS DE SERIE Y LICENCIAS ------------------------------ 
+** BIOS/UEFI ** 
+
+ 
+** Windows ** 
+
+Estado de activacion: 
+Clave parcial:
+--------------------------------------------------------------- 
+
+--- MICROSOFT OFFICE ------------------------------------------ 
+Producto: 
+Version: 
+Ubicacion:
+
+--------------------------------------------------------------- 
+--- CONFIGURACION DE RED -------------------------------------- 
+
+===  ===
+MAC Address: 
+IPv4: 
+Gateway: 
+DNS: 
+DHCP:
+ 
+** Prueba de conectividad ** 
+Sin conectividad a Internet 
+--------------------------------------------------------------- 
+ 
+--- LIMPIEZA DE ARCHIVOS TEMPORALES --------------------------- 
+Elementos procesados:
+Errores (archivos en uso):
+ 
+Archivos/carpetas eliminados:
+Espacio liberado:
+--------------------------------------------------------------- 
+ 
+================================================================ 
+                   FIN DEL REPORTE 
+================================================================ 
